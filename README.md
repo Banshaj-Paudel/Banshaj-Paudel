@@ -34,7 +34,7 @@
 <h2>Connect with me</h2>
 <a href="mailto:banshajpaudel5010@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
 
-<a href="https://bhairutribrid.medium.com/">
+<a href="https://bhairutribrid.medium.com/" target="_blank">
 <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=#white">
 </a>
 
