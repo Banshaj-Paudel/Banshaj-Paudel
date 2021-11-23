@@ -24,8 +24,6 @@
 <h3><li>Cloud Computing</li></h3>
 <h3><li>IoT</li></h3>
 <h3><li>Offensive Security</li></h3>
-<h3><li>Web Application Pentesting</li></h3>
-<h3><li>Bug Bounties</li></h3>
 
 <h2>Statistics</h2>
 
