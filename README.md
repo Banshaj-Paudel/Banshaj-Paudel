@@ -17,7 +17,8 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=black)
+![](https://img.shields.io/badge/python-474A8A?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/flask-474A8A?style=for-the-badge&logo=flask)
 
 <h2>Technologies that excite me</h2>
 <h3><li>Robotics</li></h3> 
