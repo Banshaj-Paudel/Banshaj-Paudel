@@ -21,15 +21,15 @@
 
 <h2>Technologies that excite me</h2>
 <h3><li>Robotics</li></h3> 
-<h3><li>Cloud Computing</li></h3>
+<h3><li>Research</li></h3>
 <h3><li>IoT</li></h3>
-<h3><li>Offensive Security</li></h3>
+<h3><li>Development</li></h3>
 <h3><li>Metaverse</li></h3>
-<h3><li>Virtual Reality</li></h3>
+<h3><li>Hackathons</li></h3>
 
 <h2>Statistics</h2>
 
-[![Banshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhairuTribrid&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Banshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banshaj-Paudel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Connect with me</h2>
 <a href="mailto:banshajpaudel5010@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
