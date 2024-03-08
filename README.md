@@ -31,6 +31,11 @@
 
 [![Banshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banshaj-Paudel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Banshaj-Paudel/count.svg" />
+</p>
+
 <h2>Connect with me</h2>
 <a href="mailto:banshajpaudel5010@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
 
