@@ -101,7 +101,7 @@ superpower:  Turning ideas into impact — from Himalayan soil to global stage
 
 ```
 > "Sometimes stepping two steps back doesn't mean you failed —
->  it means you're charging for the next step.
+>  it means you're charging for the next leap.
 >  After you charge, it's up to you whether you jump
 >  towards the end or towards your bed."
 >
